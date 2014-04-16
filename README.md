@@ -1,6 +1,7 @@
 # Eleventh
 
-TODO: Write a gem description
+Get the eleventh of something
+[![Build Status](https://travis-ci.org/bnmrrs/eleventh.svg?branch=master)](https://travis-ci.org/bnmrrs/eleventh)
 
 ## Installation
 
